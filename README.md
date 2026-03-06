@@ -1,4 +1,4 @@
-# SwasthyaChain : Health Records Management Using Blockchain
+# HemoLedger : Health Records Management Using Blockchain
 
 
 ## Introduction
@@ -104,4 +104,5 @@ var agentContractAddress = '0x75E115394aacC7c6063E593B9292CB9417E4cbeC';
   - Run `npm start`.
   - Open `localhost:3000` on your browser.
   - That's it! The dApp is up and running locally.
+# HemoLedger
 # HemoLedger
